@@ -1,0 +1,4 @@
+#Thu Mar 27 16:46:34 EDT 2025
+base.0=/Users/francis.shanahan/Documents/workspace/pokey_boy/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

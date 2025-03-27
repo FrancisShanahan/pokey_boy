@@ -1,0 +1,2 @@
+/Users/francis.shanahan/Documents/workspace/pokey_boy/android/app/.cxx/Debug/6x2d3p43/x86_64/CMakeFiles/edit_cache.dir
+/Users/francis.shanahan/Documents/workspace/pokey_boy/android/app/.cxx/Debug/6x2d3p43/x86_64/CMakeFiles/rebuild_cache.dir
